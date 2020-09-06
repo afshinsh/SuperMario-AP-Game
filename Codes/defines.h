@@ -1,0 +1,30 @@
+#ifndef DEFINES
+#define DEFINES
+#define FALL 1
+#define STANDING_RIGHT 0
+#define STANDING_LEFT 1
+#define WALKING_RIGHT1 2
+#define WALKING_LEFT1 3
+#define WALKING_RIGHT2 4
+#define WALKING_LEFT2 5
+#define WALKING_RIGHT3 6
+#define WALKING_LEFT3 7
+#define JUMPING_RIGHT 8
+#define JUMPING_LEFT 9
+#define SLIDIND_RIGHT 10
+#define SLIDIND_LEFT 11
+#define DEAD 12
+#define VELOCITY_X 0.7
+#define VELOCITY_Y 100
+#define WINDOW_WIDTH 800
+#define WINDOW_HEIGHT 450
+#define DEFAULT_LIVES 3
+#define DEFAULT_DELAY 13
+#define GRAVITY 50.00
+#define SPECEFIER_FOR_JUMP 5
+#define NONE_EVENT -1
+#define NO_WIN 0
+#define NO_DEAD 0
+#define ZERO 0
+#define ONE 1
+#endif

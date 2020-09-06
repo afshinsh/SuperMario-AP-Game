@@ -1,0 +1,14 @@
+#include "rsdl.hpp"
+#include <iostream>
+#include <cstdlib>
+#include <vector>
+#include <string>
+#include <fstream>
+#include <math.h>
+#include <time.h>
+#include "defines.h"
+#include "mario.h"
+#include "my_map.h"
+#include "mushroom.h"
+#include "coin.h"
+#include "goomba.h"
